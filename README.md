@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dinesh7126
+- 👋 Hi, I’m @Dinesh
 - 🏫 I'm currently pursuing Diploma in Electronic and Telecommunication
 - 👀 I’m interested in programming,IOT,Web designing, Canva
 - 🌱 I’m currently learning C programming, C++ and python
